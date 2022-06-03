@@ -1,0 +1,10 @@
+html {
+  background-color: beige;
+}
+
+body {
+  background-color: white;
+  margin: auto;
+  padding: 2rem;
+  max-width: 40rem;
+}
